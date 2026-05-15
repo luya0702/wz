@@ -59,14 +59,14 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "bilibili",
-			icon: "fa6-brands:bilibili", // Visit https://icones.js.org/ for icon codes
+			icon: "vp-social-media-icon bilibili-icon", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://space.bilibili.com/336030665",
 		},
 		{
 			name: "Telegram",
-			icon: "fa6-brands:Telegram",
+			icon: "logos:telegram",
 			url: "https://t.me/sharegal",
 		},
 	],
