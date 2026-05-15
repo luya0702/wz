@@ -50,12 +50,6 @@ importers:
       '@iconify-json/material-symbols':
         specifier: ^1.2.50
         version: 1.2.50
-      '@iconify-json/ic':
-        specifier: ^1.2.6
-        version: 1.2.6
-      '@iconify-json/tabler':
-        specifier: ^1.2.6
-        version: 1.2.6
       '@iconify/svelte':
         specifier: ^4.2.0
         version: 4.2.0(svelte@5.39.8)
